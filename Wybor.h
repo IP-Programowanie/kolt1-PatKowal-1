@@ -1,12 +1,15 @@
 #pragma once
+#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
+#include <cstdio>
+#include <cstdlib>
 
 /*
-	Zmeiniaj¹c poni¿sz¹ definicjê wybieramy zadnie.po #define nale¿y trzymaæ siê formatu: 
+	ZmeiniajÄ…c poniÅ¼szÄ… definicjÄ™ wybieramy zadnie.po #define naleÅ¼y trzymaÄ‡ siÄ™ formatu: 
 	Zad_NR_ZAJEC_NR_ZADANIA.
-	UWAGA: domyœlnie w ka¿dym pliku s¹ sloty kompilacji warunkowej na 3 zadania. Jesli do danych
-	zajeæ jest wiêcej zadañ, to nale¿y samodzilenie dodaæ slot.
+	UWAGA: domyÅ›lnie w kaÅ¼dym pliku sÄ… sloty kompilacji warunkowej na 3 zadania. Jesli do danych
+	zajeÄ‡ jest wiÄ™cej zadaÅ„, to naleÅ¼y samodzilenie dodaÄ‡ slot.
 */
 
-#define Kol_1
+#define Kol_2
 
